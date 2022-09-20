@@ -1,0 +1,5 @@
+{
+    "version": "7.0",
+    "changelog": "\n— Migration to Instagram version 232.0.0.16.114;\n— Added Monet color scheme support for Android 12+;\n— Added Animated Splash for Android 12;\n— Added Themed Icon for Android 13+;\n— Added In-App Lock (Beta);\n— Added 60 second stories;\n— Added Developer Mode decoder (MobileConfig);\n— Added new SMInstagram Sans font (Latin, Cyrillic, Thai, Persians support);\n— Added download button to the three dots menu;\n— Added hide Download feed button;\n— Added selective biography in profile;\n— Redesigned SMInstagram menu;\n— Redesigned all dialogs;\n— Redesigned of all toast messages.;\n— Fixed Auto OTA feature. Now the progress dialog is not displayed when you open the application;\n— Added Spanish language;\n— Reorganization of almost all my code.;\n— Many fixes and optimizations.",
+    "link": "https://download2280.mediafire.com/oz2fmsguadjg/4ngjtwwnkkcay36/SMInstagram_v6.0.apk"
+}
