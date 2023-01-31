@@ -1,26 +1,11 @@
+
+
 {
-    "version": "8.0",
-    "changelog": "
-    \n— Added Monet theme for Android 12+;
-    \n— Added disabling the Monet theme;
-    \n— Fixed Feed loading on some devices;
-    \n— Fixed Reels download button;
-    \n— Fixed Alte & Hoefler New fonts;
-    \n— Raised the target SDK to 33.;
-    \n— Fixed random crash on Samsung with One UI 4;
-    \n— Fixed crash Mark as read on some phones;
-    \n— Rebuild application using the latest tools.;
-    \n— Fixed action buttons with comments;
-    \n— Fixed application crash due to notifications;
-    \n— Fixed application crash;
-    \n— Fixed crash on entering Direct;
-    \n— Many fixes and optimizations.",
-    "link": "https://download1515.mediafire.com/2o4bfbbci2kg/l92jf90d6sn24a6/SMInstagram_V8.0.apk"
+	"version": "8.0",
+	"changelog": "— Added Monet theme for Android 12+;\n— Added disabling the Monet theme;\n— Fixed Feed loading on some devices;\n— Fixed Reels download button;\n— Fixed Alte & Hoefler New fonts;\n— Raised the target SDK to 33.",
+	"changelog-ru": "— Добавлена тема Monet для Android 12+;\n— Добавлено отключение темы Monet;\n— Исправлена загрузка ленты на некоторых устройствах;\n— Исправлена кнопка загрузки Reels;\n— Исправлены шрифты Alte & Hoefler New;\n— Повышение целевого SDK до 33.",
+	"link": "https://download1515.mediafire.com/2o4bfbbci2kg/l92jf90d6sn24a6/SMInstagram_V8.0.apk"
 }
-
-
-
-
 
 
 
