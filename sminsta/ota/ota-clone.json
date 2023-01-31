@@ -1,5 +1,29 @@
 {
-    "version": "7.0",
-    "changelog": "\n— Migration to Instagram version 232.0.0.16.114;\n— Added Monet color scheme support for Android 12+;\n— Added Animated Splash for Android 12;\n— Added Themed Icon for Android 13+;\n— Added In-App Lock (Beta);\n— Added 60 second stories;\n— Added Developer Mode decoder (MobileConfig);\n— Added new SMInstagram Sans font (Latin, Cyrillic, Thai, Persians support);\n— Added download button to the three dots menu;\n— Added hide Download feed button;\n— Added selective biography in profile;\n— Redesigned SMInstagram menu;\n— Redesigned all dialogs;\n— Redesigned of all toast messages.;\n— Fixed Auto OTA feature. Now the progress dialog is not displayed when you open the application;\n— Added Spanish language;\n— Reorganization of almost all my code.;\n— Many fixes and optimizations.",
-    "link": "https://www.mediafire.com/file/jy7qih0d0amswwy/SMInstagram_V7.0.apk/file#"
+    "version": "8.0",
+    "changelog": "
+    \n— Added Monet theme for Android 12+;
+    \n— Added disabling the Monet theme;
+    \n— Fixed Feed loading on some devices;
+    \n— Fixed Reels download button;
+    \n— Fixed Alte & Hoefler New fonts;
+    \n— Raised the target SDK to 33.;
+    \n— Fixed random crash on Samsung with One UI 4;
+    \n— Fixed crash Mark as read on some phones;
+    \n— Rebuild application using the latest tools.;
+    \n— Fixed action buttons with comments;
+    \n— Fixed application crash due to notifications;
+    \n— Fixed application crash;
+    \n— Fixed crash on entering Direct;
+    \n— Many fixes and optimizations.",
+    "link": "https://download1515.mediafire.com/2o4bfbbci2kg/l92jf90d6sn24a6/SMInstagram_V8.0.apk"
 }
+
+
+
+
+
+
+
+
+
+
